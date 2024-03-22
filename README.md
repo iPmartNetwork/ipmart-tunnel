@@ -1,7 +1,7 @@
 # ipmart-tunnel
 ## About The Project
 <p align="center">
-  <a href="https://github.com/ipmartnetwork/IPTABLE-Tunnel-multi-port">
+  <a href="https://github.com/ipmartnetwork/ipmart-tunnel">
     <img src="menu.JPG" alt="Logo"  >
   </a>
 </p>
