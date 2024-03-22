@@ -16,9 +16,9 @@ apt install -y iptables iptables-persistent
 mkdir /root/ipmart-tunnel
 cd /root/ipmart-tunnel
 
-# ساخت لینک نمادین با نام dds-tunnel که به tunnel.sh اشاره دارد
+# ساخت لینک نمادین با نام ipmart-tunnel که به tunnel.sh اشاره دارد
 ln -s "$(pwd)/tunnel.sh" /usr/local/bin/ipmart-tunnel
-echo "Installation completed. You can now use 'dds-tunnel' command."
+echo "Installation completed. You can now use 'ipmart-tunnel' command."
 # تغییر مجوزهای اجرایی اسکریپت
 chmod +x tunnel.sh
 sudo bash tunnel.sh
