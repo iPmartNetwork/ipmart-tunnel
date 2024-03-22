@@ -1,10 +1,6 @@
 # ipmart-tunnel
 ## About The Project
-<p align="center">
-  <a href="https://github.com/ipmartnetwork/ipmart-tunnel">
-    <img src="menu.JPG" alt="Logo"  >
-  </a>
-</p>
+
 
 ساخت تانل IPTABLE در دو حالت مختلف <br>
 1.مالتی پورت(فقط پورت های خاص)<br>
