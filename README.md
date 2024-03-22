@@ -1,7 +1,7 @@
 # ipmart-tunnel
 ## About The Project
 <p align="center">
-  <a href="https://github.com/azavaxhuman/IPTABLE-Tunnel-multi-port">
+  <a href="https://github.com/ipmartnetwork/IPTABLE-Tunnel-multi-port">
     <img src="menu.JPG" alt="Logo"  >
   </a>
 </p>
@@ -33,7 +33,7 @@ ________________________________
 
 
 ```sh
-git clone https://github.com/azavaxhuman/IPTABLE-Tunnel-multi-port.git /root/dds-tunnel && chmod +x /root/dds-tunnel/install.sh && /root/dds-tunnel/install.sh
+git clone https://github.com/ipmartnetwork/IPTABLE-Tunnel-multi-port.git /root/ipmart-tunnel && chmod +x /root/ipmart-tunnel/install.sh && /root/ipmart-tunnel/install.sh
 ```
 <br>
 
