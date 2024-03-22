@@ -33,7 +33,7 @@ ________________________________
 
 
 ```sh
-git clone https://github.com/ipmartnetwork/IPTABLE-Tunnel-multi-port.git /root/ipmart-tunnel && chmod +x /root/ipmart-tunnel/install.sh && /root/ipmart-tunnel/install.sh
+git clone https://github.com/ipmartnetwork/ipmart-tunnel.git /root/ipmart-tunnel && chmod +x /root/ipmart-tunnel/install.sh && /root/ipmart-tunnel/install.sh
 ```
 <br>
 
