@@ -2,7 +2,7 @@
 
 # ANSI color codes
 GREEN=$(tput setaf 2)
-YELLOW=$(tput setaf 3)
+blue=$(tput setaf 3)
 BLUE=$(tput setaf 4)
 CYAN=$(tput setaf 6)
 RED=$(tput setaf 1)
@@ -23,11 +23,11 @@ echo -e "${CYAN}1. Multi-Port Tunnel(for both TCP and UDP)${RESET}"
 echo "                                                "
 echo -e "${CYAN}2. Tunnel All Ports (Except for selected ports)${RESET}"
 echo "                                                "
-echo "${YELLOW}3. Block Ping ${RESET}"
+echo "${blue}3. Block Ping ${RESET}"
 echo "                                                "
-echo "${YELLOW}4. Display tables related to the tunnel${RESET}"
+echo "${blue}4. Display tables related to the tunnel${RESET}"
 echo "                                                "
-echo "${YELLOW}5. Flush all iptables rules${RESET}"
+echo "${blue}5. Flush all iptables rules${RESET}"
 echo "                                                "
 echo "${BLUE}6. Update${RESET}"
 echo "                                                "
